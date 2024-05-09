@@ -43,8 +43,8 @@ public class Zapato {
     }
     @Override
     public String toString() {
-        return "Zapato [marca=" + marca + ", modelo=" + modelo + ", material=" + material + ", talla=" + talla
-                + ", precio=" + precio + "]";
+        return "Marca: " + marca + ", modelo: " + modelo + ", material: " + material + ", talla: " + talla
+                + ", precio: " + precio + ".";
     }
 
     

@@ -12,8 +12,8 @@ public class Elegante extends Zapato {
     }
     @Override
     public String toString() {
-        return "Zapato [marca=" + marca + ", modelo=" + modelo + ", material=" + material + ", talla=" + talla
-                + ", precio=" + precio +", largo cordones=" + largoCordones + "]";
+        return "Elegante - Marca: " + marca + ", modelo: " + modelo + ", material: " + material + ", talla: " + talla
+                + ", precio: " + precio +", largo cordones: " + largoCordones + ".";
     }
 
 }
